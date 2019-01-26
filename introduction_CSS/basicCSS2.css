@@ -1,0 +1,41 @@
+/*Element*/
+body{
+}
+
+li{
+  border: 2px solid red;
+}
+/*ID*/
+#special{
+  background: yellow;
+}
+
+/*class*/
+.completed{
+  text-decoration: line-through;
+}
+/*Star*/
+*{
+  border: 1px solid lightgray;
+}
+
+/*Descendant selector - everything that is an a tag inside li tag*/
+li a {
+  color: red;
+}
+
+
+/*Adjecant selector elements that comes after that element. so siblings*/
+h1 + ul {
+  border: 4px solid black;
+}
+
+/*Attribute selector only links that go to google is blue now*/
+a[href="http://www.google.com"]{
+  background: blue;
+}
+
+/*nth of type*/
+li:nth-of-type(1){
+  background: purple;
+}

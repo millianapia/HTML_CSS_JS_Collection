@@ -1,0 +1,21 @@
+h1 {
+  color: purple;
+  border: 5px solid black;
+   border-style: dashed;
+}
+
+li {
+  color: orange;
+}
+
+h4{
+  color: red;
+  background: black;
+}
+
+body{
+  /*background: url(https://www.dendroapp.frec.vt.edu/VT_Assets/Fact_Sheets/images/Abies%20balsamea/wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  background: pink;
+}
