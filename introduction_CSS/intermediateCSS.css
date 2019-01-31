@@ -1,0 +1,35 @@
+p{
+  font-size: 12px;
+  font-family: 'Krub', sans-serif;
+
+}
+
+h1{
+  font-family: 'Krub', sans-serif;
+  font-size: 20px;
+}
+
+span{
+  font-size: 2.0em;
+}
+
+
+p{
+  font-weight: normal;
+  line-height: 1.5;
+  text-align: center;
+}
+
+h1{
+  text-align: right;
+}
+
+
+ p
+{
+  text-decoration: underline;
+}
+
+h1{
+  text-decoration: line-through;
+}
